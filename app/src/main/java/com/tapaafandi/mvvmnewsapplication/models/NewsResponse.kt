@@ -1,4 +1,4 @@
-package com.tapaafandi.mvvmnewsapplication
+package com.tapaafandi.mvvmnewsapplication.models
 
 data class NewsResponse(
     val articles: List<Article>,

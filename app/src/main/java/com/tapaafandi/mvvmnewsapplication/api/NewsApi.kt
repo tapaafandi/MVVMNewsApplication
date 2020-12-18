@@ -1,6 +1,6 @@
 package com.tapaafandi.mvvmnewsapplication.api
 
-import com.tapaafandi.mvvmnewsapplication.NewsResponse
+import com.tapaafandi.mvvmnewsapplication.models.NewsResponse
 import com.tapaafandi.mvvmnewsapplication.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
